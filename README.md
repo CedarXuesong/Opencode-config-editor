@@ -1,1 +1,1 @@
-![https://cedarxuesong.github.io/Opencode-config-editor/]
+Open in https://cedarxuesong.github.io/Opencode-config-editor/
